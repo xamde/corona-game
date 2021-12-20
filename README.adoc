@@ -1,0 +1,22 @@
+= Corona Spiel
+
+Schaffst du es zu Weihnachten mit allen 4 Figuren zu den Verwandten zu fahren?
+
+- Alleine oder zu mehreren spielbar
+- Ab 7 Jahren
+- Man braucht nur 2 Würfel, 8 Figuren und einen Drucker
+
+TIP: Drucke nur Seiten 2-5
+
+== Über das Spiel
+Das Spiel wurde im Dezember 2021 während der vierten Welle von Max und Linus Völkel aus Karlsruhe entwickelt.
+Version 2.
+
+Copyright 2021 Max Völkel, corona@xam.de
+
+Sie können es kostenlos auf einem 2D-Drucker ausdrucken und spielen. Kommerziell dürfen Sie es nicht nutzen.
+
+Die genauen Lizenzbedingungen stehen in `LICENSE.txt`.
+Lesen die es bequemer online: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de[]
+
+Icons von uxwing.com - siehe /icons/icons-license.txt
