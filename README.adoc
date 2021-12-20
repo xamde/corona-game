@@ -8,6 +8,11 @@ Schaffst du es zu Weihnachten mit allen 4 Figuren zu den Verwandten zu fahren?
 
 TIP: Drucke nur Seiten 2-5
 
+== Download
+Unter `build` sind die fertigen Spielversionen.
+
+https://github.com/xamde/corona-game/blob/main/build/Corona-Spiel-RELEASE-2021-12-20-v2.pdf
+
 == Über das Spiel
 Das Spiel wurde im Dezember 2021 während der vierten Welle von Max und Linus Völkel aus Karlsruhe entwickelt.
 Version 2.
